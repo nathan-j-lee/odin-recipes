@@ -17,6 +17,7 @@
 /* Recipe: Fried Rice */
 .fried-rice {
     background-color: darkgoldenrod;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .fried-rice.title {
@@ -37,4 +38,58 @@
     font-size: 20px;
     background-color: white;
     line-height: 1.4;
+}
+
+/* Recipe: Protein Shake */
+.protein-shake {
+    background-color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.protein-shake.title {
+    color: black;
+    font-size: 48px;
+}
+
+.protein-shake.subtitle {
+    font-size: 30px;
+}
+
+.protein-shake.paragraph {
+    font-size: 20px;
+    background-color: white;
+}
+
+.protein-shake.list {
+    font-size: 20px;
+    background-color: white;
+    line-height: 1.4;
+}
+
+/* Recipe: Ribeye Steak */
+.ribeye {
+    background-color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+.ribeye.title {
+    font-size: 48px;
+}
+
+.ribeye.subtitle {
+    font-size: 30px;
+}
+
+.ribeye.paragraph {
+    font-size: 20px;
+    background-color: white;
+    color: black;
+}
+
+.ribeye.list {
+    font-size: 20px;
+    background-color: white;
+    line-height: 1.4;
+    color: black;
 }
