@@ -1,0 +1,40 @@
+/* Recipes Homepage */
+.home {
+    background-color: lightcoral;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.home .title {
+    font-size: 48px;
+}
+
+.home .ulist {
+    font-size: 36px;
+}
+
+
+/* Recipe: Fried Rice */
+.fried-rice {
+    background-color: darkgoldenrod;
+}
+
+.fried-rice.title {
+    color: black;
+    font-size: 48px;
+}
+
+.fried-rice.subtitle {
+    font-size: 30px;
+}
+
+.fried-rice.paragraph {
+    font-size: 20px;
+    background-color: white;
+}
+
+.fried-rice.list {
+    font-size: 20px;
+    background-color: white;
+    line-height: 1.4;
+}
